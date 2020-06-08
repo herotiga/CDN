@@ -1,4 +1,4 @@
-## jsDelivr cdn
+## jsDelivr CDN
 
-CDN for my [blog](https://herotiga.github.io)
+This is the CDN for my [blog](https://herotiga.github.io)
 
