@@ -57,6 +57,9 @@ img {
     margin-bottom: 30px;
     text-align: center;
 }
+.return {
+            font-size: 16px;
+}
 h4, .h4 {
     font-size: 18px;
 }
