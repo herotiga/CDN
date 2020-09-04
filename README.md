@@ -1,4 +1,3 @@
 ## jsDelivr CDN
 
-This is the CDN for my [blog](https://herotiga.github.io).
-
+This is the CDN for my [blog](https://ownpress.icu/).
